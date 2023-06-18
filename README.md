@@ -6,3 +6,7 @@
  
  # Context
  This is part of jovian course "Linear Regression with Scikit Learn"
+ 
+ # Data set 
+ data extracted from the 
+ <a href ='https://www.kaggle.com/'>kaggle webiste </a>
